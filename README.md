@@ -1,5 +1,5 @@
 ## HOW TO USE THIS SCRIPT
--s --string : word you want to extract
+-l --list   : word you want to extract \n
 -f --file   : input file
 -d --debug  : print debug msg
 -o --output : output file
